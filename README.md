@@ -60,10 +60,10 @@ Conception d’un réseau sécurisé avec :
 
 ## 📬 Contact
 
-📧 Email : prenom.nom@email.com  
-💻 GitHub : https://github.com/username  
-🔗 LinkedIn : https://linkedin.com/in/username  
+📧 Email : sadrackanga@gmail.com
+💻 GitHub : https://github.com/
+🔗 LinkedIn : https://linkedin.com/in/  
 
 ---
 
-## © 2025 – Portfolio étudiant AEC Sécurité informatique
+## © 2026 – Portfolio étudiant AEC Sécurité informatique
