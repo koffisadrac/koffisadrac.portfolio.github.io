@@ -1,18 +1,20 @@
-# 💻 Portfolio – Étudiant AEC Sécurité informatique
+# Étudiant AEC Sécurité informatique et Réseaux
 
-## 👤 Nom Prénom
-**Étudiant AEC – Sécurité informatique | Réseaux**  
-📍 Québec, Canada  
+##  Nom Prénom
+**Kanga Koffi Sadrac**  
+**579 348 1817**
+**sadrackanga@gmail.com**
 
----
-
-## 🧑‍💼 À propos
-Étudiant en 2ᵉ session d’AEC en sécurité informatique, passionné par les réseaux, la cybersécurité et l’administration système.  
-Actuellement à la recherche d’un **stage** ou d’un **poste junior en IT / sécurité**.
 
 ---
 
-## 🛠️ Compétences techniques
+##  À propos
+Étudiant en 3ᵉ session d’AEC en sécurité informatique, passionné par les réseaux, la cybersécurité et l’administration système.  
+Actuellement à la recherche d’un **stage** ou d’un **poste junior en administration système et réseaux ou un analyste junior en cybersécurité**.
+
+---
+
+## Compétences techniques
 
 - TCP/IP  
 - VLAN  
@@ -25,27 +27,13 @@ Actuellement à la recherche d’un **stage** ou d’un **poste junior en IT / s
 - Cisco Packet Tracer  
 - Git / GitHub  
 
----
-
-## 🎓 Formation – AEC Sécurité informatique
-
-### 📚 Cours suivis (sessions précédentes)
-- Introduction aux réseaux  
-- Systèmes d’exploitation (Windows / Linux)  
-- Administration réseau  
-- Analyse de trafic (Wireshark)  
-
-### 🔐 Cours – 3ᵉ session (en cours / à venir)
-- Configuration et gestion de **pare-feu** (OPNsense, iptables)  
-- Mise en place de **VPN** (site-à-site et accès distant)  
-- Architecture sécurisée avec **DMZ**  
-- Sécurisation des réseaux et contrôle d’accès avancé  
+--- 
 
 ---
 
-## 🚀 Projets
+## Projets
 
-### 🔐 Réseau segmenté avec VLAN et ACL
+###  Réseau segmenté avec VLAN et ACL
 Conception d’un réseau sécurisé avec :
 - Segmentation par VLAN  
 - Routage inter-VLAN  
@@ -65,7 +53,7 @@ Conception d’un réseau sécurisé avec :
 
 ---
 
-## 📄 CV
+##  CV
 📥 [Télécharger mon CV](cv.pdf)
 
 ---
