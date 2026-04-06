@@ -1,10 +1,5 @@
 # Étudiant AEC Sécurité informatique et Réseaux
 
-##  Nom Prénom
-**Kanga Koffi Sadrac**  
-**579 348 1817**
-**sadrackanga@gmail.com**
-
 
 ---
 
@@ -60,9 +55,10 @@ Conception d’un réseau sécurisé avec :
 
 ## 📬 Contact
 
-📧 Email : sadrackanga@gmail.com
-💻 GitHub : https://github.com/
-🔗 LinkedIn : https://linkedin.com/in/  
+Email : sadrackanga@gmail.com
+**579 348 1817**
+GitHub : https://github.com/
+LinkedIn : https://linkedin.com/in/  
 
 ---
 
