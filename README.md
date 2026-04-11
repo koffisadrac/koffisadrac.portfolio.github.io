@@ -14,7 +14,7 @@ Actuellement à la recherche d'un stage ou d'un poste junior (Admin Système, r�
 
 ## Compétences
 
-#Systèmes :
+Systèmes :
 Windows 10/11 & Windows.
 Linux (Ubuntu Server / Client, Kali, Debian).
 Gestion des comptes utilisateurs (Active Directory).
