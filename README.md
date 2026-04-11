@@ -5,7 +5,9 @@
 
 ##  À propos
 Futur Administrateur Systèmes & Réseaux | Passionné de Cybersécurité.
-Étudiant en AEC Sécurité Informatique et Réseaux (3ᵉ session), je combine une solide base théorique avec une pratique intensive de l’administration système et du réseautage. Passionné par la protection des infrastructures, je maîtrise la configuration d'environnements Linux/Windows et la sécurisation des flux réseaux. Actuellement à la recherche d'un stage ou d'un poste junior (Admin Système, réseaux et Cybersécurité).
+
+Étudiant en AEC Sécurité Informatique et Réseaux (3ᵉ session), je combine une solide base théorique avec une pratique intensive de l’administration système et du réseautage. Passionné par la protection des infrastructures, je maîtrise la configuration d'environnements Linux/Windows et la sécurisation des flux réseaux. 
+Actuellement à la recherche d'un stage ou d'un poste junior (Admin Système, réseaux et Cybersécurité).
 
 
 ---
