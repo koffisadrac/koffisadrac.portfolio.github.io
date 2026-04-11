@@ -13,19 +13,20 @@ Actuellement à la recherche d'un stage ou d'un poste junior (Admin Système, r�
 ---
 
 ## Compétences
+
 #Systèmes :
 Windows 10/11 & Windows.
 Linux (Ubuntu Server / Client, Kali, Debian).
 Gestion des comptes utilisateurs (Active Directory).
 Installation et configuration de postes de travail.
 
-#Réseaux :
+Réseaux :
 Configuration d’adresses IP, DHCP, DNS.
 Notions de VLAN, routage et segmentation réseau.
 Diagnostic et résolution de problèmes réseau. 
 Utilisation d’outils réseau (ping, traceroute, netstat).
 
-#Sécurité :
+Sécurité :
 Surveillance des alertes de sécurité et analyse des incidents.
 Gestion des identités et des accès (IAM – comptes utilisateurs, permissions).
 Connaissance des pare-feux (OPNsense, UFW, Iptables).
