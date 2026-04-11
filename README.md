@@ -4,23 +4,37 @@
 ---
 
 ##  À propos
-Étudiant en AEC Sécurité informatique et réseaux au Collège Ellis, je suis passionné par la cybersécurité et l’administration des systèmes. Rigoureux, organisé et doté d’un solide esprit d’analyse, Mon objectif est de contribuer activement au soutien technique et à la gestion des parcs informatiques, tout en consolidant mon expertise pratique au sein d’un environnement corporatif d’envergure Étudiant en 3ᵉ session d’AEC en sécurité informatique, passionné par les réseaux, la cybersécurité et l’administration système.  
-Actuellement à la recherche d’un **stage** ou d’un **poste junior en administration système et réseaux ou un analyste junior en cybersécurité**.
+Futur Administrateur Systèmes & Réseaux | Passionné de Cybersécurité.
+Étudiant en AEC Sécurité Informatique et Réseaux (3ᵉ session), je combine une solide base théorique avec une pratique intensive de l’administration système et du réseautage. Passionné par la protection des infrastructures, je maîtrise la configuration d'environnements Linux/Windows et la sécurisation des flux réseaux. Actuellement à la recherche d'un stage ou d'un poste junior (Admin Système, réseaux et Cybersécurité).
+
 
 ---
 
-## Compétences techniques
+## Compétences
+**Systèmes :
+Windows 10/11 & Windows.
+Linux (Ubuntu Server / Client, Kali, Debian).
+Gestion des comptes utilisateurs (Active Directory).
+Installation et configuration de postes de travail.
 
-- TCP/IP  
-- VLAN  
-- ACL  
-- Routage  
-- DHCP / DNS  
-- Linux (Ubuntu)  
-- Windows Server  
-- Wireshark  
-- Cisco Packet Tracer  
-- Git / GitHub  
+**Réseaux :
+Configuration d’adresses IP, DHCP, DNS.
+Notions de VLAN, routage et segmentation réseau.
+Diagnostic et résolution de problèmes réseau. 
+Utilisation d’outils réseau (ping, traceroute, netstat).
+
+**Sécurité :
+Surveillance des alertes de sécurité et analyse des incidents.
+Gestion des identités et des accès (IAM – comptes utilisateurs, permissions).
+Connaissance des pare-feux (OPNsense, UFW, Iptables).
+Bonnes pratiques en cybersécurité (contrôle d’accès, principe du moindre privilège).
+
+**Langages / outils :
+PowerShell (débutant). 
+Commande Bash. Confluence, Jira (notions). 
+Notions de virtualisation (VMware, VirtualBox).
+Notions de base en cloud (Azure / AWS)
+
 
 --- 
 
